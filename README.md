@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ducduy2k
+- 👋 Hi, I’m Duy Tran from UIT 
 - 👀 I’m interested in Computer Science
 - 📫 Mail: ducduyleo@gmail.com
 - 📫 Edu mail: 19521434@gm.uit.edu.vn
