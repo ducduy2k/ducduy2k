@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ducduy2k
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science at UIT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Mail: ducduyleo@gmail.com
+- 📫 Edu mail: 19521434@gm.uit.edu.vn
+-
 
 <!---
 ducduy2k/ducduy2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
